@@ -1,0 +1,40 @@
+body { 
+    background-color: lightseagreen;
+    color: black;
+    font-family: sans-serif;
+  }
+
+  .picMiddle{
+    float:center;
+    margin-left: 400px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  nav {
+    font-size: 25px;
+  }
+
+  h1{
+    text-align: center;
+  }
+
